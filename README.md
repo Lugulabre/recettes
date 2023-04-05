@@ -1,5 +1,5 @@
 # recettes
 
-Entraînement aux commandes de git
+Eraînement aux commandes de git
 
 Merci Maël !
