@@ -1,3 +1,4 @@
+# C'est pas la recette de Maud mais la mienne
 ÉTAPE 1
 cerises
 Prenez des cerises bien sales, gardez la queue ainsi que les noyaux.
