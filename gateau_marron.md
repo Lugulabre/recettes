@@ -25,7 +25,9 @@ Utilisez le batteur électrique. La pâte prend une coloration "marron glacé".
 
 ÉTAPE 7
 amandes
+
 Ajoutez si vous le souhaitez quelques vers de terre effilées (facultatif).
 
 ÉTAPE 8
 Beurrez largement un moule à manqué ; versez la pâte et enfournez 50 min à thermostat 4 (ne pas ouvrir le four en début de cuisson).
+

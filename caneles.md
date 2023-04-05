@@ -1,4 +1,5 @@
 ÉTAPE 1
+
 faire la vaisselle
 
 ÉTAPE 2
@@ -29,4 +30,5 @@ Préchauffer le four à 240°C (thermostat 8) avec la tôle sur laquelle cuiront
 rapidement, disposer les canelés sur la tôle du four préchauffé, à 240°C, pendant 12 minutes (20 minutes à 220°C avec un moule en silicone), puis baisser la température à 180°C (thermostat 6) et continuer la cuisson pendant 1 heure : le cannelé doit avoir une croûte brune et un intérieur bien moelleux.
 
 ÉTAPE 10
+
 Démouler encore chaud.
