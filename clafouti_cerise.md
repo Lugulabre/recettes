@@ -1,15 +1,16 @@
 ÉTAPE 1
 cerises
 Lavez et équeutez les cerises.
+Enlever les noyaux
 
 ÉTAPE 2
 beurre
-Allumez votre four à thermostat 6/7 (180/200°C). Dans un plat à tarte, mettez le beurre puis enfournez-le.
+Allumez votre four à thermostat 6/7 (180/200°C). Dans un plat à clafouti, mettez 50g de beurre puis enfournez-le.
 
 ÉTAPE 3
-oeuf
-sel
-sucre roux
+2oeuf
+1 pincee de sel
+100g sucre roux
 extrait de vanille
 farine
 Battez les oeufs en omelette, ajoutez la pincée de sel ainsi que le sucre. Mélangez bien (au fouet ou au robot). Ajoutez l'extrait de vanille, mélangez et jetez la farine en pluie. Mélangez bien jusqu'à obtenir un liquide épais et onctueux.
