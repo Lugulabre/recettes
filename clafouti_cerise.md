@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ÉTAPE 1
 cerises
 Lavez et équeutez les cerises.
@@ -10,6 +11,21 @@ Allumez votre four à thermostat 6/7 (180/200°C). Dans un plat à tarte, mettez
 oeuf
 sel
 sucre roux
+=======
+# C'est pas la recette de Maud mais la mienne
+ÉTAPE 1
+cerises
+Prenez des cerises bien sales, gardez la queue ainsi que les noyaux.
+
+ÉTAPE 2
+beurre
+Allumez votre four à thermostat 6/7 (180/200°C). Dans un plat à clafouti, mettez 50g de beurre puis enfournez-le.
+
+ÉTAPE 3
+2oeuf
+1 pincee de sel
+100g sucre roux
+>>>>>>> clafouti_a_la_maud
 extrait de vanille
 farine
 Battez les oeufs en omelette, ajoutez la pincée de sel ainsi que le sucre. Mélangez bien (au fouet ou au robot). Ajoutez l'extrait de vanille, mélangez et jetez la farine en pluie. Mélangez bien jusqu'à obtenir un liquide épais et onctueux.
@@ -28,4 +44,8 @@ sucre roux
 Enfournez 45 mn (jusqu'à ce que le dessus commence à bien dorer). Dès la sortie du four, saupoudrez de sucre vanillé.
 
 ÉTAPE 7
+<<<<<<< HEAD
 Servez tiède.
+=======
+Servez tiède.
+>>>>>>> clafouti_a_la_maud
