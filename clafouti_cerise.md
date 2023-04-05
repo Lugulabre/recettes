@@ -1,7 +1,6 @@
 ÉTAPE 1
 cerises
-Lavez et équeutez les cerises.
-Enlever les noyaux
+Prenez des cerises bien sales, gardez la queue ainsi que les noyaux.
 
 ÉTAPE 2
 beurre
