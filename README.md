@@ -1,2 +1,5 @@
 # recettes
-Entraînement git mais y'a un conflit
+
+Entraînement aux commandes de git
+
+Merci Maël !
