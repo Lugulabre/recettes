@@ -1,13 +1,8 @@
 ÉTAPE 1
-lait
-vanille
-beurre
-Faire bouillir le lait avec la gousse de vanille préalablement fendue et égrainée et le beurre.
+faire la vaisselle
 
 ÉTAPE 2
-farine
-sucre
-Pendant ce temps, mélanger la farine et le sucre dans un saladier
+refaire la vaisselle
 
 ÉTAPE 3
 oeuf
