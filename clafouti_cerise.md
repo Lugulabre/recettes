@@ -1,3 +1,4 @@
+# C'est pas la recette de Maud mais la mienne
 ÉTAPE 1
 cerises
 Lavez et équeutez les cerises.
