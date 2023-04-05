@@ -1,2 +1,2 @@
 # recettes
-Entraînement aux commandes de git
+Entraînement git mais y'a un conflit
